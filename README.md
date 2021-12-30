@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @007aneesh
+- 👀 I’m interested in Learning new things on frontend and backend
+- 🌱 I’m currently learning C++ and Javascript
+- 💞️ I’m looking to collaborate on frontend work
+- 📫 You can contact me on proaccess000@gmail.com
