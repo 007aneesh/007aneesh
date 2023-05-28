@@ -50,7 +50,7 @@ Let's grow network together!
  </table>
 
 <br>
-### <p align="center"> ⚙️ &nbsp;Cool Analytics  </p>
+<p align="center"> ⚙️ &nbsp;Cool Analytics  </p>
 <p align="center">
 <a href="https://github.com/1tracy">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=007aneesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
