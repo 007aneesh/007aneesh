@@ -53,7 +53,7 @@ Let's grow network together!
 <h2 align="center">
 ⚙️ Cool Analytics  </h2>
 <p align="center">
-<a href="https://github.com/1tracy">
+<a href="https://github.com/007aneesh">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=007aneesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </a>
 </p>
