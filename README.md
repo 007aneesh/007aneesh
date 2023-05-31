@@ -5,7 +5,7 @@
 
 <table><tr><td valign="top" width="40%"> 
 
-## <img width="25px" src="./devvsakib-hello.gif" alt="Hello Dev!"> I’m Aneesh Aggarwal
+## <img width="25px" src="./devvsakib-hello.gif" alt="Hello!"> I’m Aneesh Aggarwal
 
 - 💻 I'm a Frontend Developer
 - 🆕 Exploring new technologies and developing software solutions and quick hacks.
