@@ -63,10 +63,10 @@ Let's grow network together!
             alt="007aneesh" />
  </p>
  <br>
- <p align="center">
+<!--  <p align="center">
  <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=007aneesh&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=38bdf8&icon_color=F8D866" height="192px" width="60%"/>
   </p>
-<br>
+<br> -->
 <!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
 
 <div align="center">
