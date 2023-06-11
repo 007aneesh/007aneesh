@@ -58,7 +58,7 @@ Let's grow network together!
 </p>
 <br>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=007aneesh"
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=007aneesh&theme=vision-friendly-dark"
             alt="007aneesh" />
  </p>
  <br>
