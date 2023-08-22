@@ -50,7 +50,7 @@ Let's grow network together!
  </table>
 
 <br>
-<!-- <h2 align="center">
+<h2 align="center">
 ⚙️ Cool Analytics</h2>
 <p align="center">
 <a href="https://github.com/007aneesh">
@@ -62,13 +62,11 @@ Let's grow network together!
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=007aneesh&theme=vision-friendly-dark"
             alt="007aneesh" />
  </p>
- <br> -->
-<!--  <p align="center">
+ <br>
+ <p align="center">
  <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=007aneesh&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=38bdf8&icon_color=F8D866" height="192px" width="60%"/>
   </p>
-<br> -->
-<!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
-
+<br>
 <div align="center">
   
 ```diff
