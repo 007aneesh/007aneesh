@@ -7,10 +7,11 @@
 
 ## <img width="25px" src="./devvsakib-hello.gif" alt="Hello!"> I’m Aneesh Aggarwal
 
-- 💻 I'm a Frontend Developer
+- 💻 I'm a MERN Stack Developer
 - 🆕 Exploring new technologies and developing software solutions and quick hacks.
 - 🧩 UX designer
 - 📁 Follow me for Projects.
+- 🦖 https://portfolio3-0-beta.vercel.app/
 - 📫 aneeshx000@gmail.com
 - 📫 aneesh1635.be21@chitkara.edu.in
 
