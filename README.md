@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![I am typing now..](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=1000&color=0000FF&center=true&width=400&height=30&lines=Frontend+Developer;UX+Designer;Postman+Student+Leader)
+![I am typing now..](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=1000&color=0000FF&center=true&width=400&height=30&lines=MERN+Stack+Developer;UX+Designer;Postman+Student+Leader)
 </div>
 
 <table><tr><td valign="top" width="40%"> 
